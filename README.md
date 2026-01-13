@@ -14,7 +14,7 @@ The system supports:
 
 ## 🧠 System Architecture
 
-![system_arch Medium](https://github.com/user-attachments/assets/de0a2936-b647-4522-b065-5132722ad823)
+<img src="https://github.com/user-attachments/assets/de0a2936-b647-4522-b065-5132722ad823" alt="System Architecture" width="600"/>
 
 ---
 
