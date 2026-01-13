@@ -88,19 +88,64 @@ The public feed supports **search by title**, implemented using database-level q
 
 ## 📸 Screenshots
 
-### Public Feed
-**Before Login**  
-![Public Feed Before Login](https://github.com/user-attachments/assets/02ca02bd-5d03-4c79-a493-55ec51e73bf5)
+<details>
+  <summary><strong>Public Feed — Before Login</strong></summary>
+  <br />
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/02ca02bd-5d03-4c79-a493-55ec51e73bf5"
+      alt="Public Feed Before Login"
+      width="700"
+    />
+  </p>
+</details>
 
-**After Login**  
-![Public Feed After Login](https://github.com/user-attachments/assets/3cc3b1c6-3122-4f8e-8d5d-e30ff796bf6f)
+<details>
+  <summary><strong>Public Feed — After Login</strong></summary>
+  <br />
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/3cc3b1c6-3122-4f8e-8d5d-e30ff796bf6f"
+      alt="Public Feed After Login"
+      width="700"
+    />
+  </p>
+</details>
 
-### Post Detail
-![Post Detail](https://github.com/user-attachments/assets/bc934d54-33c5-4abd-83d8-ab009675aaea)
+<details>
+  <summary><strong>Post Detail View</strong></summary>
+  <br />
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/bc934d54-33c5-4abd-83d8-ab009675aaea"
+      alt="Post Detail"
+      width="700"
+    />
+  </p>
+</details>
 
-### Dashboard
-![Dashboard](https://github.com/user-attachments/assets/ccfa23ee-8e12-4bb0-aa01-e5349685374d)
+<details>
+  <summary><strong>Dashboard</strong></summary>
+  <br />
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/ccfa23ee-8e12-4bb0-aa01-e5349685374d"
+      alt="Dashboard"
+      width="700"
+    />
+  </p>
+</details>
 
-### Login Page
-![Login Page](https://github.com/user-attachments/assets/b2d347ec-b445-4946-b2ce-7ca0adf0241e)
+<details>
+  <summary><strong>Login Page</strong></summary>
+  <br />
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/b2d347ec-b445-4946-b2ce-7ca0adf0241e"
+      alt="Login Page"
+      width="600"
+    />
+  </p>
+</details>
+
 
